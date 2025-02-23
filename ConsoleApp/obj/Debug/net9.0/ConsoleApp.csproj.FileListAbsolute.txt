@@ -1,0 +1,14 @@
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.exe
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.deps.json
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.runtimeconfig.json
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.dll
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\bin\Debug\net9.0\ConsoleApp.pdb
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.dll
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\refint\ConsoleApp.dll
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.pdb
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\princ\Desktop\MyDotNetApp\ConsoleApp\obj\Debug\net9.0\ref\ConsoleApp.dll
